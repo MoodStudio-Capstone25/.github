@@ -1,4 +1,4 @@
-## Hi there 👋
+## 취미를 시각화하는 감성 기록 앱, MoodStudio
 
 <!--
 
