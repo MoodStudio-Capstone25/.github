@@ -1,4 +1,6 @@
-## 취미를 시각화하는 감성 기록 앱, MoodStudio
+## 취미를 시각화하는 감성 기록 앱, MoodStudio입니다.
+
+![팀 사진](https://github.com/user-attachments/assets/2838e459-8534-4fa8-9f62-c1d3b78611d0)
 
 <!--
 
